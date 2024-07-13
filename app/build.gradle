@@ -6,8 +6,8 @@ android {
         applicationId 'com.winlator'
         minSdkVersion 26
         targetSdkVersion 28
-        versionCode 13
-        versionName "6.1"
+        versionCode 16
+        versionName "7.1"
     }
     signingConfigs.debug {
         storeFile file('testkey_untrusted.jks')
